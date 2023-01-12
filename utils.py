@@ -100,4 +100,3 @@ def get_posts_by_hashtag(hashtag):
             hashtag_posts.append(post)
 
     return hashtag_posts
-
